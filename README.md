@@ -2,7 +2,7 @@
 
 <img src="https://github.com/biospin/visual_bio/blob/master/main01.jpeg"  width="600"  height="500"/>
 
-<img src="https://github.com/biospin/visual_bio/blob/master/main02.jpg"  width="600"  height="500"/>
+<img src="https://github.com/biospin/visual_bio/blob/master/main02.jpg"  width="600"  height="300"/>
 
 <img src="https://github.com/biospin/visual_bio/blob/master/main03.jpg"  width="600"  height="500"/>
 
