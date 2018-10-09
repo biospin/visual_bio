@@ -20,10 +20,9 @@ https://drive.google.com/drive/u/0/folders/1FPPqaFBh4paxMyAWr3hk9f6Hktw3HX1j
 
 ## 교재 정보
 1. 시각화
-   -  R-shiny : https://github.com/cardiomoon/shinyLecture2
+   - R-shiny : https://github.com/cardiomoon/shinyLecture2
    - Vue.js :  https://kr.vuejs.org/v2/guide/
-   - D3.js :  http://webframeworks.kr/getstarted/d3js/
-                 Interactive Data Visualization for the Web : https://www.safaribooksonline.com/library/view/interactive-data-visualization/9781491921296/ 
+   - D3.js :  Interactive Data Visualization for the Web : http://shop.oreilly.com/product/0636920026938.do
 
 2. CT 이미지 분석 
   - http://nonmeyet.tistory.com/category/데이터분석  
@@ -37,6 +36,9 @@ https://drive.google.com/drive/u/0/folders/1FPPqaFBh4paxMyAWr3hk9f6Hktw3HX1j
   
 3. 블록체인 기술을 활용한 헬스케어데이터 공유 플랫폼 개발
   - 인공지능을 위한 선형대수(주재걸 교수님)  : http://www.edwith.org/linearalgebra4ai
+  - 처음 배우는 블록체인 : http://www.hanbit.co.kr/store/books/look.php?p_code=B8083970938
+    
+4. 참고자료
   - https://github.com/bitcoinbook/bitcoinbook/blob/develop/README.md
   - http://solidity.readthedocs.io/en/v0.4.24/
   - https://book.naver.com/bookdb/book_detail.nhn?bid=13496085
