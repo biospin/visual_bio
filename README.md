@@ -68,9 +68,9 @@ https://drive.google.com/drive/u/0/folders/1FPPqaFBh4paxMyAWr3hk9f6Hktw3HX1j
 |seq.|    날짜        |     내용                                                                                      
 |----| ---------|----------------------------------------------
 |  1 |2018.10.05|(시각화) shiny1.pdf : R과 Shiny를 이용한 Web Application 제작(I)
-|    |          |(캐글 & 이미지 분석 ) 타이타닉 생존자 예측모형 만들기
+|    |          |(캐글 & 이미지 분석 ) [타이타닉 생존자 예측모형 만들기](https://github.com/biospin/visual_bio/blob/master/part01/week1_181005/Titanic_Solution.pdf)
 |    |          |(블록체인)  인공지능을 위한 선형대수 - 4장 :  고유벡터와 고유값  /  영공간과 직교여공간
-|  2 |2018.10.12|(시각화)   shiny2.pdf : R과 Shiny를 이용한 Web Application 제작 (II)
+|  2 |2018.10.12|(시각화)  [ shiny2.pdf : R과 Shiny를 이용한 Web Application 제작 (I)(II)](https://github.com/biospin/visual_bio/blob/master/part01/week2_181012/shiny1.R)
 |    |          |(캐글 & 이미지 분석  ) 집값 예측 모형 만들기
 |    |          |(블록체인)   인공지능을 위한 선형대수 - 4장 :  특성방정식 /  대각화  / 고유값 분해와 선형변환
 |  3 |2018.10.19|(시각화)   Shiny3.pdf : RStudio addin 제작
