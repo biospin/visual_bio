@@ -1,4 +1,4 @@
-# 비주얼 바이오  : 시각화 기법을 바이오인포에  적용해보자~~
+# 비주얼 바이오  : 바이오인포를 위한 시각화와 블록체인
 
 <!-- img src="https://github.com/biospin/visual_bio/blob/master/main01.jpeg"  width="600"  height="500"/ -->
 
