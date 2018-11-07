@@ -89,7 +89,7 @@ https://drive.google.com/drive/u/0/folders/1FPPqaFBh4paxMyAWr3hk9f6Hktw3HX1j
 |    |          |(블록체인) 2장 블록체인 이해하기  
 |  2 |2018.11.09|(시각화)    Vue.js :  필수요소중  계산된 속성과 감시자  ~  리스트 렌더링
 |    |          |(캐글 & 이미지 분석  ) NIH Clinical Center releases dataset of 32,000 CT images 데이터 소개
-|    |          |(블록체인)3장 스마트 계약과 이더리움 이해하기  
+|    |          |[(블록체인)3장 스마트 계약과 이더리움 이해하기](https://github.com/biospin/visual_bio/blob/master/part02/week02_20181109/blockchain_chapter03.pdf)  
 |  3 |2018.11.16|(시각화)    Vue.js :  필수요소중 이벤트 핸들링  ~ 컴포넌트
 |    |          |(캐글 & 이미지 분석  ) 32,000 CT images를 구글 클라우드에 올리고 전처리
 |    |          |(블록체인)  4장 블록체인 2.0과 스마트 계약 플랫폼
