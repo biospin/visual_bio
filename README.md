@@ -92,9 +92,9 @@ https://drive.google.com/drive/u/0/folders/1FPPqaFBh4paxMyAWr3hk9f6Hktw3HX1j
 |    |          |[(블록체인)3장 스마트 계약과 이더리움 이해하기](https://github.com/biospin/visual_bio/blob/master/part02/week02_20181109/blockchain_chapter03.pdf)  
 |  3 |2018.11.16|(시각화)    Vue.js :  필수요소중 이벤트 핸들링  ~ 컴포넌트
 |    |          |(캐글 & 이미지 분석  ) 32,000 CT images를 구글 클라우드에 올리고 전처리
-|    |          |(블록체인)  4장 블록체인 2.0과 스마트 계약 플랫폼
+|    |          |(블록체인)[  4장 블록체인 2.0과 스마트 계약 플랫폼](https://github.com/biospin/visual_bio/blob/master/part02/week03_20181116/%EC%B2%98%EC%9D%8C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%20-%204.%20%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%202.0%EA%B3%BC%20%EC%8A%A4%EB%A7%88%ED%8A%B8%20%EA%B3%84%EC%95%BD%20%ED%94%8C%EB%9E%AB%ED%8F%BC.pdf)(김가경)
 |  4 |2018.11.23|(시각화)  Vue.js :  트랜지션 & 애니메이션
-|    |          |(캐글 & 이미지 분석  ) 32,000 CT images 실습
+|    |          |[(캐글 & 이미지 분석  ) 32,000 CT images 실습](https://github.com/biospin/visual_bio/blob/master/part02/week04_20181123/DeepLesion.pdf)(지용기)
 |    |          |(블록체인) 5장 블록체인 서비스 활용하기  
 
 
