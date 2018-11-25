@@ -102,7 +102,7 @@ https://drive.google.com/drive/u/0/folders/1FPPqaFBh4paxMyAWr3hk9f6Hktw3HX1j
 |seq.|    날짜        |     내용                                                                                      
 |----| ---------|----------------------------------------------
 |  1 |2018.11.30|(시각화) Vue.js :  재사용 & 컴포지션 ~ 라우팅
-|    |          |(캐글 & 이미지 분석)   32,000 CT images 실습
+|    |          |(캐글 & 이미지 분석)   [32,000 CT images 실습](https://github.com/biospin/visual_bio/blob/master/part03/week01_1130/DeepLesion_%EC%8B%A4%EC%8A%B5.pdf)(지용기)
 |    |          |(블록체인) 6장 블록체인 애플리케이션 개발 기초
 |  2 |2018.12. 7|(시각화) D3.js : 1장 ~ 2장 
 |    |          |(캐글 & 이미지 분석)   32,000 CT images 실습
